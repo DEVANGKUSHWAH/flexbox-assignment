@@ -1,4 +1,4 @@
 # flexbox-assignment
+
 reamining
-Watch the project live at 
-https://github.com/DEVANGKUSHWAH/flexbox-assignment.git
+Watch the project live at
